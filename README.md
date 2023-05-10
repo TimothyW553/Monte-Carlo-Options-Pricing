@@ -10,7 +10,9 @@ are complex and hard to simulate using analytical formulas. This is usually done
 pricing (since it's easier to calculate)
 
 Compared to a deterministic model (such as the Black-Scholes options pricing model for European 
-call options), the Monte Carlo is inefficient. We can improve its accuracy by using:
+call options), the Monte Carlo is inefficient. 
+
+### Ways to improve accuracy
  1. Variance reduction methods:
     - Antithetic variates
     - Control variates
