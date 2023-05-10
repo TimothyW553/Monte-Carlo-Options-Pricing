@@ -9,8 +9,9 @@ For this project, we are simulating Financial Derivatives. Why? Options
 are complex and hard to simulate using analytical formulas. This is usually done with risk-neutral
 pricing (since it's easier to calculate)
 
-Compared to a deterministic model (such as the Black-Scholes options pricing model for European 
-call options), the Monte Carlo is inefficient. 
+### Example of Market value vs Theoretical Value
+![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/09d944d3-6bc4-40d0-8f72-4287e391fd60)
+
 
 ### Ways to improve accuracy
  1. Variance reduction methods:
