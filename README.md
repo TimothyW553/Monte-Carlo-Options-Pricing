@@ -9,9 +9,11 @@ For this project, we are simulating Financial Derivatives. Why? Options
 are complex and hard to simulate using analytical formulas. This is usually done with risk-neutral
 pricing (since it's easier to calculate)
 
-### Example of Market value vs Theoretical Value
+### Market Value vs Theoretical Value for `MSFT`
 ![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/09d944d3-6bc4-40d0-8f72-4287e391fd60)
 
+### Market Value vs Theoretical Value for `AAPL`
+![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/e5a89849-6693-4916-851f-18a2ce25da44)
 
 ### Ways to improve accuracy
  1. Variance reduction methods:
