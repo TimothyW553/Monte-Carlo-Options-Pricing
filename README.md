@@ -10,10 +10,10 @@ are complex and hard to simulate using analytical formulas. This is usually done
 pricing (since it's easier to calculate)
 
 ### Market Value vs Theoretical Value for `MSFT`
-![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/09d944d3-6bc4-40d0-8f72-4287e391fd60)
+![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/0d95da53-bbad-46d6-92c0-da8a60124232)
 
 ### Market Value vs Theoretical Value for `AAPL`
-![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/e5a89849-6693-4916-851f-18a2ce25da44)
+![image](https://github.com/TimothyW553/Monte-Carlo-Options-Pricing/assets/31230953/2974c362-7853-4b50-b42c-aa166436125c) 
 
 ### Ways to improve accuracy
  1. Variance reduction methods:
